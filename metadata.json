@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Nexus",
+  "description": "A complete multimodal AI suite cloning advanced Replit capabilities. Features text chat, image analysis, image generation, and real-time voice interaction via the Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
